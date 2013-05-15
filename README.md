@@ -1,7 +1,5 @@
 an simple node app to test a deployment environment
 
-just change to the app directory, type 'npm start' and see the app running!
- 
 == deploy on cloudfoundry ==
 
  git clone 
