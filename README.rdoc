@@ -2,7 +2,7 @@ an simple node app to test a deployment environment
 
 == deploy on cloudfoundry
 
- git clone 
- cd git@github.com:wolfoo2931/simple_node_app.git 
+ git clone git@github.com:wolfoo2931/simple_node_app.git 
+ cd simple_node_app
  npm install simple_node_app
  cf push
