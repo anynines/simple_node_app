@@ -4,6 +4,6 @@ applications:
   memory: 512M
   instances: 1
   host: your_app_name
-  domain: de.a9sapp.eu
+  domain: aws.ie.a9sapp.eu
   path: .
   buildpack: https://github.com/heroku/heroku-buildpack-nodejs.git
