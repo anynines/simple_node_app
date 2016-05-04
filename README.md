@@ -17,4 +17,4 @@ vim manifest.yml # exchange all occurences of your_app_name with the desired app
 cf push
 </pre>
 
-Find your app at [your_app_name.cf.anynines.de](http://your_app_name.de.a9sapp.eu)
+Find your app at [your_app_name.cf.anynines.de](http://your_app_name.aws.ie.a9sapp.eu)
